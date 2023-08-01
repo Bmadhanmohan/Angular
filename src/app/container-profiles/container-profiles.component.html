@@ -1,0 +1,50 @@
+<div>
+  <app-search (searchTextChanged)="onsearchenterd($event)"></app-search>
+</div>
+<div class="cards" >
+ 
+    <ng-container *ngFor="let item of data">
+
+ 
+      
+      <div class="p_container"  *ngIf="searchText==='' || item.Company.toLowerCase().includes(searchText.toLowerCase())||item.Name.toLowerCase().includes(searchText.toLowerCase())" [ngStyle]="{background:item.Gender=='Male'?'rgba(245,199,110,0.2)':'rgba(5,255,2,0.2)'}">
+ 
+      
+       <div class="card ">
+           <div class="row">
+            <div class="col-md-4">
+                 
+              <img src="\assets\profile\{{item.profile}}" alt="" id="stdimg" >
+                
+            </div>
+            <div class="col-md-8">
+                <h4><span [ngStyle]="{color:'gold'}">ROLL No:</span>{{item.Roll}}</h4>
+          
+                <h4 [ngStyle]="{color:item.Gender=='Male'?'Yellow':'skyblue'}"><span [ngStyle]="{color:'White'}">NAME :</span>{{item.Name}}</h4>
+                <h4 [ngStyle]="{color:item.Gender=='Male'?'green':'blue'}"><span [ngStyle]="{color:'White'}">GENDER:</span>{{item.Gender}}</h4>
+                <h4><span [ngStyle]="{color:'violet'}">DOB:</span>{{item.DOB}}</h4>
+                <h4><span [ngStyle]="{color:'pink'}">COMPANY:</span>{{item.Company}}</h4>
+               <h4><span [ngStyle]="{color:'red'}">PACKAGE:</span>{{item.Package}}</h4>
+                   
+            </div>
+
+
+           </div>
+            
+             
+             
+  
+             
+        </div>
+      
+ 
+ 
+     
+ 
+       </div>
+
+    </ng-container>
+                     
+        
+ </div>
+ 

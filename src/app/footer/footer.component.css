@@ -1,0 +1,10 @@
+div{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    margin:2px auto;
+
+    background: rgba(0, 0, 0, 0.986);
+    box-shadow: 1px 2px 3px white;
+}
