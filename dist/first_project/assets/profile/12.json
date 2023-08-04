@@ -1,0 +1,499 @@
+[
+ {
+  "Roll": "18751A0501",
+  "Name ": "A ALISHA",
+  "profile": "1.jpg",
+  "Company ": "KROLL",
+  "Package ": "5.0 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0502",
+  "Name ": "A S SANGEETHA",
+  "profile": "1.jpg",
+  "Company ": "HCL Tech ",
+  "Package ": "4.25 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0503",
+  "Name ": "A SAI GANESH",
+  "profile": "1.jpg",
+  "Company ": "BOSCH ",
+  "Package ": "7.5 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0504",
+  "Name ": "ADAPA SREEJA",
+  "profile": "1.jpg",
+  "Company ": "HCL Tech ",
+  "Package ": "4.25 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0505",
+  "Name ": "ADHIKARIMAYAMPARESH SHARMA",
+  "profile": "1.jpg",
+  "Company ": "BOSCH",
+  "Package ": "7.5 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0506",
+  "Name ": "ALUKUR CHIRANJEEVI",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0507",
+  "Name ": "B BINDU PRIYA",
+  "profile": "1.jpg",
+  "Company ": "Virtusa ",
+  "Package ": "5.0 Lpa",
+  "DOB": "18 Nov 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0508",
+  "Name ": "B CHARITHA",
+  "profile": "1.jpg",
+  "Company ": "Capgemini ",
+  "Package ": "4.0 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0509",
+  "Name ": "B DEEPAK",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0510",
+  "Name ": "B HEMANTH",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "30 Apr 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0511",
+  "Name ": "B NITHEESHA",
+  "profile": "1.jpg",
+  "Company ": "Soprasteria ",
+  "Package ": "6.5 Lpa ",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0512",
+  "Name ": "BAJANTHRI MADHAN MOHAN",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "09 Mar 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0513",
+  "Name ": "B PAVAN KALYAN",
+  "profile": "1.jpg",
+  "Company ": "Byjus ",
+  "Package ": "5.0 Lpa",
+  "DOB": "07 Jul 2000",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0514",
+  "Name ": "C S YOGESH GANDHI",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "05 Jan 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0515",
+  "Name ": "C SONALI",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "14 Sep 2000",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0516",
+  "Name ": "C ROHINI",
+  "profile": "1.jpg",
+  "Company ": "Capgemini",
+  "Package ": "4.0 Lpa",
+  "DOB": "24 Aug 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0517",
+  "Name ": "CHOPPA KEERTHI",
+  "profile": "1.jpg",
+  "Company ": "TCS",
+  "Package ": "3.3 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0518",
+  "Name ": "D CHANDRU",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0519",
+  "Name ": "D GAYATHRRY SRE",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0520",
+  "Name ": "D JYOTHI PRASAD",
+  "profile": "1.jpg",
+  "Company ": "Masters",
+  "Package ": "NA",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0521",
+  "Name ": "D POORNIMA PARINITHA",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0522",
+  "Name ": "DADDALA GEETHIKA CHOWDARY",
+  "profile": "1.jpg",
+  "Company ": "TCS",
+  "Package ": "3.3 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0523",
+  "Name ": "E V HARSHENE",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "20 Jul 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0524",
+  "Name ": "E V HARSHETHA",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0525",
+  "Name ": "G CHANDHU PRIYA",
+  "profile": "1.jpg",
+  "Company ": "HCL Tech ",
+  "Package ": "4.25 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0526",
+  "Name ": "G KIRAN",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0527",
+  "Name ": "G TRIDEV",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "24 Dec 2000",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0528",
+  "Name ": "GAJULA HARSHITHA",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "02 Apr 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0529",
+  "Name ": "GANGA DEVENDRA",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0530",
+  "Name ": "GUMMAREDDY SURESH RAKESH",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0531",
+  "Name ": "GUMMIREDDY SAI JOSHIKA",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0532",
+  "Name ": "JAYARAJ BENITTA",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "29 Apr 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0533",
+  "Name ": "K BHANU PRAKASH",
+  "profile": "1.jpg",
+  "Company ": "IDFC First Bank ",
+  "Package ": "6.5 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0534",
+  "Name ": "K CHAKITHA",
+  "profile": "1.jpg",
+  "Company ": "Masters",
+  "Package ": "NA",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0536",
+  "Name ": "K HEMANTH",
+  "profile": "1.jpg",
+  "Company ": "Atos syntel",
+  "Package ": "3.5 Lpa",
+  "DOB": "30 Apr 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0537",
+  "Name ": "K MEGHANA SAI",
+  "profile": "1.jpg",
+  "Company ": "TCS ",
+  "Package ": "3.3 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0538",
+  "Name ": "K N PAVITHRA",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0539",
+  "Name ": "K SNEHA",
+  "profile": "1.jpg",
+  "Company ": "TCS",
+  "Package ": "3.3 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0540",
+  "Name ": "K THANUJA",
+  "profile": "1.jpg",
+  "Company ": "HCL Tech ",
+  "Package ": "4.25 Lpa",
+  "DOB": "30 Sep 2000",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0541",
+  "Name ": "K V VANITHA",
+  "profile": "1.jpg",
+  "Company ": "Soprasteria ",
+  "Package ": "6.5 Lpa ",
+  "DOB": "28 Dec 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0542",
+  "Name ": "K HAREESH KUMAR",
+  "profile": "1.jpg",
+  "Company ": "HCL Tech ",
+  "Package ": "4.25 Lpa",
+  "DOB": "20 Jul 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0543",
+  "Name ": "KANTAM YOGESH",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "21 Jan 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0544",
+  "Name ": "KAVALLI NAVEEN",
+  "profile": "1.jpg",
+  "Company ": "HCL Tech ",
+  "Package ": "4.25 Lpa",
+  "DOB": "25 Mar 2000",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0545",
+  "Name ": "KEERTHANA CM",
+  "profile": "1.jpg",
+  "Company ": "hcl ",
+  "Package ": "3.4 Lpa",
+  "DOB": "07 May 2000",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0546",
+  "Name ": "KONDURU KEERTHI",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "02 Jun 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0547",
+  "Name ": "M H PREETHI",
+  "profile": "1.jpg",
+  "Company ": "JAX",
+  "Package ": "5.5 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0548",
+  "Name ": "M LOKESH",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0549",
+  "Name ": "M NITHESH",
+  "profile": "1.jpg",
+  "Company ": "BOSCH",
+  "Package ": "7.5 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0550",
+  "Name ": "M PRAVALIKA",
+  "profile": "1.jpg",
+  "Company ": "Persistant ",
+  "Package ": "7.5 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0551",
+  "Name ": "M RAVINDRA NAIK",
+  "profile": "1.jpg",
+  "Company ": "HCL Tech ",
+  "Package ": "4.25 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0552",
+  "Name ": "M VIMALA",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "24 Aug 2000",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0553",
+  "Name ": "M SAI KISHORE",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "15 Apr 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0554",
+  "Name ": "MIDDI TANUJA",
+  "profile": "1.jpg",
+  "Company ": "HCL Tech ",
+  "Package ": "4.25 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0555",
+  "Name ": "MODEM LOKESWARI",
+  "profile": "1.jpg",
+  "Company ": "Virtusa ",
+  "Package ": "5.0 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A0556",
+  "Name ": "MONESH REDDY P",
+  "profile": "1.jpg",
+  "Company ": "HCL Tech ",
+  "Package ": "4.25 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0557",
+  "Name ": "MUDIREDDY CHAITANYA KUMAR Reddy\n",
+  "profile": "1.jpg",
+  "Company ": "HCL Tech ",
+  "Package ": "4.25 Lpa",
+  "DOB": "26 Jun 2001",
+  "Gender ": "Male"
+ },
+ {
+  "Roll": "18751A0558",
+  "Name ": "N RAGAMAI",
+  "profile": "1.jpg",
+  "Package ": "NA",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Female "
+ },
+ {
+  "Roll": "18751A05A1",
+  "Name ": "TENEPALLI THARUN\nKUMAR",
+  "profile": "1.jpg",
+  "Company ": "Cognizant ",
+  "Package ": "4.0 Lpa",
+  "DOB": "01 Jan 2001",
+  "Gender ": "Male"
+ }
+]
